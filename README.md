@@ -43,3 +43,7 @@
 
 
 
+---
+### 🐍: Commits:
+
+![snake animation](https://github.com/<seu AliceRivi14>/<seu AliceRivi14>/blob/output/github-contribution-grid-snake2.svg)
