@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" **alt="CMake" width="60" height="60"/>
-  </div>
+</div>
 
 
 ---
@@ -40,3 +40,6 @@
 ### :fire: My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceRivi14&layout=compact)
+
+
+
