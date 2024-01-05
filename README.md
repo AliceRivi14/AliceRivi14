@@ -1,20 +1,15 @@
-### Hi, I'm Alice 👋
+Hi, I'm Alice 👋 
+======================
 
-<!--
-**AliceRivi14/AliceRivi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Robotics Engineering student with a great passion for automotive and animals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+* 🌍  I'm based in Reggio Emilia
+* ✉️  You can contact me at [alicerivi14@gmail.com](mailto:alicerivi14@gmail.com)
+* 🚀  I'm currently working on [Variable Stiffness Octopus Arm](http://https://www.iit.it/it/web/bioinspired-soft-robotics/soft-arm)
+* 🧠  I'm learning Soft Robotics
 
 ---
+## 🌍 Social
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alice-rivi-9a503423b/" target="_blank">
@@ -27,7 +22,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -59,14 +54,14 @@
 
 ---
 
-### :fire: My Stats :
+## 🔥 My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceRivi14&layout=compact)
 
-### 🐍 Commits:
+---
 
-<br clear="both">
+## 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/AliceRivi14/AliceRivi14/output/snake.svg" alt="Snake animation" />
 
-###
+##
