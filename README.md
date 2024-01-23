@@ -6,7 +6,7 @@ Hi, I'm Alice 👋
 * 🌍  I'm based in Reggio Emilia
 * ✉️  You can contact me at [alicerivi14@gmail.com](mailto:alicerivi14@gmail.com)
 * 🚀  I'm currently working on [Variable Stiffness Octopus Arm](http://https://www.iit.it/it/web/bioinspired-soft-robotics/soft-arm)
-* 🧠  I'm learning Soft Robotics
+* 🧠  I'm learning Soft Robotics, Autonomous Systems, Software Architecture etc...
 
 ---
 ## 🌍 Social
@@ -56,10 +56,12 @@ Hi, I'm Alice 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceRivi14&layout=compact)
 
+<!---
 ---
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/AliceRivi14/AliceRivi14/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AliceRivi14/AliceRivi14/output/snake.svg" alt="Snake animation"/>
 
 ##
+-->
