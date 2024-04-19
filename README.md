@@ -5,7 +5,7 @@ Hi, I'm Alice 👋
 
 * 🌍  I'm based in Reggio Emilia
 * ✉️  You can contact me at [alicerivi14@gmail.com](mailto:alicerivi14@gmail.com)
-* 🚀  I'm currently working on [Variable Stiffness Octopus Arm](http://https://www.iit.it/it/web/bioinspired-soft-robotics/soft-arm)
+<!-- * 🚀  I'm currently working on [Variable Stiffness Octopus Arm](http://https://www.iit.it/it/web/bioinspired-soft-robotics/soft-arm) -->
 * 🧠  I'm learning Soft Robotics, Autonomous Systems, Software Architecture etc...
 
 ---
