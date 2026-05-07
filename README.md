@@ -52,17 +52,3 @@ Hi, I'm Alice 👋
 </div>
 
 ---
-
-## 🔥 My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceRivi14&layout=compact)
-
-<!---
----
-
-## 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/AliceRivi14/AliceRivi14/output/snake.svg" alt="Snake animation"/>
-
-##
--->
